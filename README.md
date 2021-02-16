@@ -1,8 +1,17 @@
 # Web Developer
 
+#### JS
+```javascript
+  console.log(I am Web Developer);
+```
+
+---
+
+#### C++
 ```c++
   int main(){
-  cout<<"I am Aldo Ruiz";
+  
+  cout<<"My name is Aldo Ruiz";
   
   return 0;
   
