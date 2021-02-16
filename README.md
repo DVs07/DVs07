@@ -2,7 +2,7 @@
 
 #### JS
 ```javascript
-  console.log(I am Web Developer);
+  console.log('I am Web Developer');
 ```
 
 ---
