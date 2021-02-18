@@ -1,16 +1,16 @@
 # Web Developer
 >C ++ is one of the first programming languages that I learned in university, especially in the subject of algorithms and data structures. Next you will see a mini program in this language.
 #### C++
-[C++ - Mini Program](https://repl.it/@AldoRS/Mini-Program#main.cpp "I love progamming")
 ```c++
 #include <iostream>
+using std :: cout;
 
 int main() {
-
   cout<<" I am Aldo Ruiz";
 return 0;
   }
 ```
+[C++ - Mini Program](https://repl.it/@AldoRS/Mini-Program#main.cpp "I love progamming")
 ---
 #### JS
 ```javascript
