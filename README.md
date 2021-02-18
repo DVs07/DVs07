@@ -10,7 +10,9 @@ int main() {
 return 0;
   }
 ```
-[C++ - Mini Program](https://repl.it/@AldoRS/Mini-Program#main.cpp "I love progamming")
+
+[Repository](https://github.com/DVs07/Mini-Program "C++ is amazing") [C++ - Mini Program](https://repl.it/@AldoRS/Mini-Program#main.cpp "I love progamming")
+
 ---
 #### JS
 ```javascript
