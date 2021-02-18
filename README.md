@@ -11,7 +11,7 @@ return 0;
   }
 ```
 
-[Repository](https://github.com/DVs07/Mini-Program "C++ is amazing") [C++ - Mini Program](https://repl.it/@AldoRS/Mini-Program#main.cpp "I love progamming")
+[C++ - Mini Program](https://repl.it/@AldoRS/Mini-Program#main.cpp "I love progamming") - [Repository](https://github.com/DVs07/Mini-Program "C++ is amazing") 
 
 ---
 #### JS
