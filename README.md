@@ -1,4 +1,4 @@
-# Web Developer
+# Front End Developer Trainee
 >C ++ is one of the first programming languages that I learned in university, especially in the subject of algorithms and data structures. Next you will see a mini program in this language.
 #### C++
 ```c++
@@ -16,10 +16,10 @@ return 0;
 ---
 #### JS
 ```javascript
-  console.log('and I Web Developer');
+  console.log('I am IRON MAN);
 ```
 
-- 👋 Hi, I’m Aldo Ruiz a Web Developer.
+- 👋 Hi, my is Aldo Ruiz, I am front-end developer in training
 - 👀 I’m interested in Web and Mobile Develope.
 - 🌱 I’m currently learning Angular, Vue and React.
  
