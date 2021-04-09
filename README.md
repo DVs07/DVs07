@@ -21,7 +21,7 @@ return 0;
 
 - 👋 Hi, my is Aldo Ruiz, I am front-end developer in training
 - 👀 I’m interested in Web and Mobile Develope.
-- 🌱 I’m currently learning Angular, Vue and React.
+- 🌱 I’m currently learning React and Angular.
  
 
 <!---
