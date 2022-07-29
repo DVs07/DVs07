@@ -19,7 +19,7 @@ return 0;
   console.log('I am IRON MAN);
 ```
 
-- 👋 Hi, my is Aldo Ruiz, I am front-end developer in training
+- 👋 Hi, my is Aldo Ruiz, I am full stack developer in training
 - 👀 I’m interested in Web and Mobile Develope.
 - 🌱 I’m currently learning React and Angular.
  
