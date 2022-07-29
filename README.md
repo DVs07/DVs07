@@ -1,4 +1,4 @@
-# Front End Developer Trainee
+# Full Stack Developer Trainee
 >C ++ is one of the first programming languages that I learned in university, especially in the subject of algorithms and data structures. Next you will see a mini program in this language.
 #### C++
 ```c++
