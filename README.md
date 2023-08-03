@@ -1,5 +1,8 @@
 # Full Stack Developer Trainee
->C ++ is one of the first programming languages that I learned in university, especially in the subject of algorithms and data structures. Next you will see a mini program in this language.
+### Acerca de mi
+---
+>**C** fue uno de los primeros lenguajes de programación que aprendi, luego en la universidad segui este largo camino con **C++**, el cual era impartido en la materia **Algoritmos y estructuras de Datos**. Actualmente estoy en el proyecto [PASE](https://github.com/DVs07/PASE), el cual nos dio el 4to lugar y menciones honorificas en el **"Hackaton - Construyendo un país más accesible"**. Si bien el proyecto se encuentra en etapa de *diseño/desarrollo*.
+>Para materializar esta aplicación  **FLUTTER** fue el *framework* seleccionado dado a su versatilidad. 
 #### C++
 ```c++
 #include <iostream>
@@ -11,17 +14,9 @@ return 0;
   }
 ```
 
->[Mini Program](https://repl.it/@AldoRS/Mini-Program#main.cpp "I love progamming") - [Repository](https://github.com/DVs07/Mini-Program "C++ is amazing") 
+>[Mini Programa](https://repl.it/@AldoRS/Mini-Program#main.cpp "I love progamming") - [Repository](https://github.com/DVs07/Mini-Program "C++ is amazing") 
 
 ---
-#### JS
-```javascript
-  console.log('I am IRON MAN);
-```
-
-- 👋 Hi, my is Aldo Ruiz, I am full stack developer in training
-- 👀 I’m interested in Web and Mobile Develope.
-- 🌱 I’m currently learning React and Angular.
  
 
 <!---
