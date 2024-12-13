@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DVs07)](https://git.io/streak-stats)
 # Full Stack Developer Trainee
 ### Acerca de mi
 ---
