@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=DVs07&theme=blueberry-duo&hide_border=true&locale=es&exclude_days=Sun%2CSat&card_width=390)](https://git.io/streak-stats) <image src="./header-img.png"  width="300" height="250">
+[![GitHub Streak](https://streak-stats.demolab.com?user=DVs07&theme=blueberry-duo&hide_border=true&locale=es&exclude_days=Sun%2CSat&card_width=420)](https://git.io/streak-stats) <image src="./header-img.png"  width="300" height="250">
 
 ### Quien soy?
 ---
