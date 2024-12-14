@@ -1,4 +1,4 @@
-# Frontend Developer 
+<div align="center" ><image src="./github-header-image.png"></div>
 
 ### Acerca de mi
 ---
