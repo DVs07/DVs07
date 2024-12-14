@@ -1,13 +1,20 @@
-<div align="center" ><image src="./github-header-image.png"></div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DVs07&theme=blueberry-duo&hide_border=true&locale=es&exclude_days=Sun%2CSat&card_width=530)](https://git.io/streak-stats) <image src="./header-img.png"  width="300" height="250">
 
-### Acerca de mi
+### Quien soy?
 ---
-**C** fue uno de los primeros lenguajes de programación que aprendi, luego en la universidad segui este largo camino con **C++**, el cual era impartido en la materia **Algoritmos y estructuras de Datos**. Actualmente estoy en el proyecto [PASE](https://github.com/DVs07/PASE), el cual nos dio el 4to lugar y menciones honorificas en el **"Hackaton - Construyendo un país más accesible"**. Si bien el proyecto se encuentra en etapa de *diseño/desarrollo*, el objetivo es que este **año** la **aplicación** este disponible para su uso en todos los **smartphones**. 
->Para materializar esta aplicación  **FLUTTER** fue el *framework* seleccionado dado a su versatilidad.
+Me llamo **Aldo**  desarrollador Frontend Autodidacta. Amante de toda la saga *Star Wars* como se puede notar, por eso decidi usar el apodo **DEV VADER**,
+actualmente me encuentro  promediando el 3er año de la carrera de *Ingenieria en Sistemas* en la **UTN** y realizando un curso de *Java Script* en la plataforma de *UDEMY*. 
+
+
+Proyectos
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=DVs07&theme=shadow-red&hide_border=true&locale=es&exclude_days=Sun%2CSat&card_width=530)](https://git.io/streak-stats)
 
-
+| Repositorio  | Deploy | 
+|:------------- |:---------------:| 
+| [API Criptomonedas](https://github.com/DVs07/api-criptomonedas)       | [Link](https://dvs07.github.io/api-criptomonedas/)     | 
+| [API Buscador de imagenes](https://github.com/DVs07/api-buscador-imagenes)   | [Link](https://dvs07.github.io/api-buscador-imagenes/)     | 
+| [API Recetas](https://github.com/DVs07/api-recetas)   | [Link](https://dvs07.github.io/api-recetas/)    | 
+| [API Clima](https://github.com/DVs07/api-clima)         | [Link](https://dvs07.github.io/api-clima/) | 
 
 Lenguajes, Frameworks y Herramientas
 ---
