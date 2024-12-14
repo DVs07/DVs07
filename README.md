@@ -1,6 +1,8 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=DVs07&theme=blueberry-duo&hide_border=true&locale=es&exclude_days=Sun%2CSat&card_width=420)](https://git.io/streak-stats) <image src="./header-img.png"  width="300" height="250">
+[![GitHub Streak](https://streak-stats.demolab.com?user=DVs07&theme=blueberry-duo&hide_border=true&locale=es&exclude_days=Sun%2CSat&card_width=420)](https://git.io/streak-stats) <image src="./header-img.png"  width="330" height="260">
 
-### Quien soy?
+---
+
+Quien soy?
 ---
 Me llamo **Aldo**  desarrollador Frontend Autodidacta. Amante de toda la saga *Star Wars* como se puede notar, por eso decidi usar el apodo **DEV VADER**,
 actualmente me encuentro  promediando el 3er año de la carrera de *Ingenieria en Sistemas* en la **UTN** y realizando un curso de *Java Script* en la plataforma de *UDEMY*. 
