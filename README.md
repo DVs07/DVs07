@@ -11,9 +11,9 @@ actualmente me encuentro  promediando el 3er año de la carrera de *Ingenieria e
 Proyectos
 ---
 
-| Repositorio  | Deploy | 
-|:------------- |:---------------:|
-|[Caculadora Restaurant](https://github.com/DVs07/calculadora-restaurant)|[Link](https://dvs07.github.io/calculadora-restaurant/)     |
+| Repositorio  | Deploy | Lenguajes |
+|:------------- |:---------------:|:---------------:|
+|[Caculadora Restaurant](https://github.com/DVs07/calculadora-restaurant)|[Link](https://dvs07.github.io/calculadora-restaurant/)| JS - CSS3 - HTML5
 | [API Criptomonedas](https://github.com/DVs07/api-criptomonedas)       | [Link](https://dvs07.github.io/api-criptomonedas/)     | 
 | [API Buscador de imagenes](https://github.com/DVs07/api-buscador-imagenes)   | [Link](https://dvs07.github.io/api-buscador-imagenes/)     | 
 | [API Recetas](https://github.com/DVs07/api-recetas)   | [Link](https://dvs07.github.io/api-recetas/)    | 
