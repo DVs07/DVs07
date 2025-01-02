@@ -13,11 +13,11 @@ Proyectos
 
 | Repositorio  | Deploy | Lenguaje | Framework 
 |:------------- |:---------------:|:---------------:|:---------------:|
-|[Caculadora Restaurant](https://github.com/DVs07/calculadora-restaurant)|[Link](https://dvs07.github.io/calculadora-restaurant/)| JS Vanilla | Bootstrap CSS
-| [API Criptomonedas](https://github.com/DVs07/api-criptomonedas)       | [Link](https://dvs07.github.io/api-criptomonedas/)     | JS Vanilla | Skeleton CSS
+|[Caculadora Restaurant](https://github.com/DVs07/calculadora-restaurant)|[Link](https://dvs07.github.io/calculadora-restaurant/)| JS Vanilla | Bootstrap 
+| [API Criptomonedas](https://github.com/DVs07/api-criptomonedas)       | [Link](https://dvs07.github.io/api-criptomonedas/)     | JS Vanilla | Skeleton 
 | [API Buscador de imagenes](https://github.com/DVs07/api-buscador-imagenes)   | [Link](https://dvs07.github.io/api-buscador-imagenes/)     | JS Vanilla | Tailwind CSS
-| [API Recetas](https://github.com/DVs07/api-recetas)   | [Link](https://dvs07.github.io/api-recetas/)    | JS Vanilla | Bootstrap CSS
-| [API Clima](https://github.com/DVs07/api-clima)         | [Link](https://dvs07.github.io/api-clima/) | JS Vanilla |  Skeleton CSS
+| [API Recetas](https://github.com/DVs07/api-recetas)   | [Link](https://dvs07.github.io/api-recetas/)    | JS Vanilla | Bootstrap
+| [API Clima](https://github.com/DVs07/api-clima)         | [Link](https://dvs07.github.io/api-clima/) | JS Vanilla |  Skeleton
 
 Lenguajes, Frameworks y Herramientas
 ---
