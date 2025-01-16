@@ -37,6 +37,8 @@ Lenguajes, Frameworks y Herramientas
 
 Cursos
 ---
+UDEMY - JS Moderno
+
 [MindHub - FrontEnd JS Vanilla / Vue.js](https://www.credly.com/badges/8e3f3e91-d0a8-405e-bb97-b42ba3b0e12b/linked_in_profile)
 
 [MindHub  - QA Tester Manual](https://www.credly.com/badges/17bf0658-fd06-48d0-afa0-331d90b5fb61/linked_in_profile)
