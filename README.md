@@ -42,6 +42,16 @@ UDEMY - JS Moderno
 [MindHub - FrontEnd JS Vanilla / Vue.js](https://www.credly.com/badges/8e3f3e91-d0a8-405e-bb97-b42ba3b0e12b/linked_in_profile)
 
 [MindHub  - QA Tester Manual](https://www.credly.com/badges/17bf0658-fd06-48d0-afa0-331d90b5fb61/linked_in_profile)
+
+Participaciones
+---
+Hackaton - 4to lugar y mencion honorifica
+
+Proyecto: PASE - Paradas Accesibles Sin Exclusion
+
+Plataforma: Mobile
+
+Lenguaje / Framework: Flutter
 <!---
 DVs07/DVs07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
