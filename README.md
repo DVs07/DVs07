@@ -47,9 +47,9 @@ Participaciones
 ---
 Hackaton - 4to lugar y mencion honorifica
 
->Proyecto: PASE - Paradas Accesibles Sin Exclusion  
-Plataforma: Mobile  
-Lenguaje / Framework: Flutter  
+>**Proyecto:** PASE - Paradas Accesibles Sin Exclusion  
+**Plataforma:** Mobile  
+**Lenguaje / Framework:** Flutter  
 <!---
 DVs07/DVs07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
