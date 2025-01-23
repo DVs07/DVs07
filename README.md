@@ -47,10 +47,14 @@ Participaciones
 ---
 Hackaton "Construyendo un pais más accesible" - 4to lugar y mencion honorifica
 [![Evento Final Hackaton](https://i.ytimg.com/vi/TLyfCH_ppZ8/hqdefault.jpg)](https://www.youtube.com/watch?v=TLyfCH_ppZ8)
-
 >**Proyecto:** PASE - Paradas Accesibles Sin Exclusion  
 **Plataforma:** Mobile  
 **Lenguaje / Framework:** Flutter  
+**Estado:** En desarrollo
+
+[Propuesta / Integrantes / 1er video presentacion](https://challenges.tekuoia.com/hackaton_accesibilidad/project/QvsIr4QBkSI1FWkkHnGe)
+
+
 <!---
 DVs07/DVs07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
