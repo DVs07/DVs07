@@ -45,7 +45,8 @@ UDEMY - JS Moderno (Cursando)
 
 Participaciones
 ---
-Hackaton - 4to lugar y mencion honorifica
+Hackaton "Construyendo un pais más accesible" - 4to lugar y mencion honorifica
+[![Evento Final Hackaton](https://i.ytimg.com/vi/TLyfCH_ppZ8/hqdefault.jpg)](https://www.youtube.com/watch?v=TLyfCH_ppZ8)
 
 >**Proyecto:** PASE - Paradas Accesibles Sin Exclusion  
 **Plataforma:** Mobile  
